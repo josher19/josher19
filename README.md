@@ -13,14 +13,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 #### Personal:
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=josher19&show_icons=true&count_private=true&include_all_commits=true&border_radius=15)
 
 #### Work _(before July 2021)_:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jweinsteincbt&show_icons=true&count_private=true&hide_title=true&border_radius=15)
+
+-->
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josher19&layout=compact&langs_count=6&border_radius=15)
