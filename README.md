@@ -46,4 +46,4 @@ Account: [jweinsteincbt](https://github.com/jweinsteincbt?tab=overview&from=2020
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josher19&layout=compact&langs_count=6&border_radius=15&count_private=true)
 
-ℹ️ Note: Been using Node JS professionally since 2012 and Typescript since 2017 (but not on Open Source projects)
+ℹ️ Note: Been using Node JS professionally since 2012 and Typescript since 2018 (but not on Open Source projects)
