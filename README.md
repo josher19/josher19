@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 Account: [jweinsteinafs](https://github.com/jweinsteinafs?tab=overview&from=2022-12-01&to=2022-12-31)
 
-<a href="https://github.com/jweinsteinafs?tab=overview&from=2022-12-01&to=2022-12-31" target="_blank"><img alt="apprentice_io_private_contribs" title="Apprentio.io (Private) Contributions / PR's" src="https://github.com/josher19/josher19/assets/175075/3c31cf50-d9ea-49eb-9195-0dd4dc85b654" /></a>
+<a href="https://github.com/jweinsteinafs?tab=overview&from=2022-12-01&to=2022-12-31" target="blank"><img alt="apprentice_io_private_contribs" title="Apprentio.io (Private) Contributions / PR's" src="https://github.com/josher19/josher19/assets/175075/3c31cf50-d9ea-49eb-9195-0dd4dc85b654" /></a>
 
 ℹ️ Note: Squash merge configured as required on account, so one Commit &asymp; one Jira Ticket
 
@@ -34,7 +34,7 @@ Account: [jweinsteinafs](https://github.com/jweinsteinafs?tab=overview&from=2022
 
 Account: [jweinsteincbt](https://github.com/jweinsteincbt?tab=overview&from=2020-12-01&to=2020-12-31)
 
-<a href="https://github.com/jweinsteincbt?tab=overview&from=2020-12-01&to=2020-12-31" target="_blank"><img alt="cbt_nuggets_private_contribs" title="CBT Nuggets Commits" src="https://github.com/josher19/josher19/assets/175075/94abe5ae-c194-4bac-9b5f-99c0d699fb68" /></a>
+<a href="https://github.com/jweinsteincbt?tab=overview&from=2020-12-01&to=2020-12-31" target="blank"><img alt="cbt_nuggets_private_contribs" title="CBT Nuggets Commits" src="https://github.com/josher19/josher19/assets/175075/94abe5ae-c194-4bac-9b5f-99c0d699fb68" /></a>
 
 ℹ️ Note: Issues tracked in Jira rather than Github
 
